@@ -11,6 +11,7 @@ permalink: /about/
 ## 联系我
 
 * GitHub：[@MaidSG](https://github.com/MaidSG)
-* email：<ifinetoo@qq.com>
-*  QQ：512256763
+* 知乎：https://www.zhihu.com/people/ping-fan-ren-28-62
+* email：ifinetoo@qq.com
+* QQ：512256763
 *  手机 & 微信：17606977442
