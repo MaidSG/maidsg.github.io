@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "lemon's blog"
+name: "阿昱的博客"
 # Short bio or description (displayed in the header)
-description: "个人技术公众号：程序员柠檬  分享编程资源 | 学习路线"
+description: "coding | running | traveling | reading | thinking"
 
 #
 # Flags below are optional
@@ -39,11 +39,11 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ning-meng-cheng-31-94
-  email: llong87@163.com
+  zhihu: ping-fan-ren-28-62
+  email: ifinetoo@qq.com
   facebook:
   flickr:
-  github: lemonchann 
+  github: MaidSG
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -55,7 +55,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2019 lemon
+footer-text: Copyright (c) 2023 wangyu
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
