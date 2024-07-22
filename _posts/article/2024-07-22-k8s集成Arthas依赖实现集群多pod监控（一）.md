@@ -138,7 +138,7 @@ docker tag maidsg/arthas-tunnel-server:1.0  [registry.cn-beijing.aliyuncs.com/d
 - 部署server
 server记得开放好端口，同时注意网络服务名称千万不要设置为arthas-server，因为这样启动后，给server配置的系统环境变量端口会和应用里的arthas.server.port 冲突。
 ![image.png](https://s2.loli.net/2024/07/20/JnBemolKAX8EfzQ.png)
-部署好后，配置网管路由后就能在公网查看了。
+部署好后，配置网络路由后就能在公网查看了。
 ![image.png](https://s2.loli.net/2024/07/20/yF5TPlM8URB67XS.png)
 ![image.png](https://s2.loli.net/2024/07/20/u35anbxTh9DEmS2.png)
 
