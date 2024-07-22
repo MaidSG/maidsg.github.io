@@ -6,7 +6,7 @@ title: "2024-07-22-k8s集成Arthas依赖实现集群多pod监控(一)"
 
 date:   2024-07-22
 
-tags: [thinking,心理学,有效努力,basic knowledge]
+tags: [k8s,服务器,arthas,basic knowledge]
 
 comments: true
 
